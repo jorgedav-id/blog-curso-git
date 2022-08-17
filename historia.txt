@@ -1,7 +1,6 @@
 Primera linea
-
 clase Número 8
-
-repasando git
-historia de un personaje importante
-Su obra maestra :-)
+Se está haciendo este cambio para aprender como 
+revisar un archivo de un commit antiguo y realizar cambios
+en el para ponerlos en un nuevo commit.
+En esta clase (#13) terminamos el módulo de comandos básicos de Git.
