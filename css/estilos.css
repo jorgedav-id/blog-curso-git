@@ -19,7 +19,9 @@ body {
 
 #cabecera {
 	font-weight: bold;
-	background: #33A;
+	font-size: larger;
+	letter-spacing: 0.1em;
+	background: rgb(46, 46, 141);
 	box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.30);
 	color: white;
 	margin: 0;
@@ -32,4 +34,8 @@ body {
 	font-size: 0.8em;
 }
 
-
+#footer {
+	font-weight: bold;
+	margin: 0;
+	padding: 0.5em;
+}
