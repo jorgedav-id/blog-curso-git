@@ -7,3 +7,5 @@ En esta clase (#13) terminamos el módulo de comandos básicos de Git.
 Clase 25: Estasmo realizando un cambio desde Ubuntu WSL para verificar
 lo aprendido en clase.
 CAMBIOS HECHOS DESDE EL FORK DEL REPOSITORIO EN WSL
+
+Cambio realizado en la clase de REBASE xD
